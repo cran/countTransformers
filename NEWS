@@ -1,3 +1,6 @@
+v0.0.6 created on March 20, 2019
+(1) update the publication info about the paper that the R package is developed based on
+
 v0.0.5 created on Feb. 12, 2019
 (1) fixed two bugs that were pointed out by CRAN:
   The Title field should be in title case. Current version is:

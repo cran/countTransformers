@@ -24,9 +24,9 @@ G x n data matrix, where G is the number of genes and n is the number of subject
 	A G x 1 vector of p-values.
 }
 \references{
-	Zhang Z, Yu D, Seo M, Hersh CP, Weiss ST, Qiu W. (2018) 
-	Novel Data Transformations for RNA-seq Data Analysis. 
-	https://doi.org/10.1101/432690
+  Zhang Z, Yu D, Seo M, Hersh CP, Weiss ST, Qiu W. 
+	Novel Data Transformations for RNA-seq Differential Expression Analysis. 
+	(2019) 9:4820 https://rdcu.be/brDe5
 }
 \author{
 	Zeyu Zhang, Danyang Yu, Minseok Seo, Craig P. Hersh, Scott T. Weiss, Weiliang Qiu

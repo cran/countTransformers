@@ -1,8 +1,8 @@
 Package: countTransformers
 Type: Package
 Title: Transform Counts in RNA-Seq Data Analysis
-Version: 0.0.5
-Date: 2019-02-12
+Version: 0.0.6
+Date: 2019-03-20
 Authors@R: c(
              person("Zeyu", "Zhang", role=c("aut", "cre"),
                      email = "zhzyvv@gmail.com"),
@@ -21,10 +21,10 @@ Maintainer: Zeyu Zhang <zhzyvv@gmail.com>
 Depends: R (>= 3.4.0), Biobase, limma
 Imports: MASS, graphics, stats
 biocViews: Bioinformatics, DifferentialExpression
-Description: Provide data transformation functions to transform counts in RNA-seq data analysis. Please see the reference: Zhang Z, Yu D, Seo M, Hersh CP, Weiss ST, Qiu W. (2018) <doi:10.1101/432690>.
+Description: Provide data transformation functions to transform counts in RNA-seq data analysis. Please see the reference: Zhang Z, Yu D, Seo M, Hersh CP, Weiss ST, Qiu W. (2019) <doi.org/10.1038/s41598-019-41315-w>.
 License: GPL (>= 2)
 NeedsCompilation: no
-Packaged: 2019-02-13 03:28:25 UTC; ICSA
+Packaged: 2019-03-20 11:24:28 UTC; ICSA
 Author: Zeyu Zhang [aut, cre],
   Danyang Yu [aut, ctb],
   Minseok Seo [aut, ctb],
@@ -32,4 +32,4 @@ Author: Zeyu Zhang [aut, cre],
   Scott T. Weiss [aut, ctb],
   Weiliang Qiu [aut, ctb]
 Repository: CRAN
-Date/Publication: 2019-02-22 13:40:06 UTC
+Date/Publication: 2019-03-20 12:56:43 UTC
